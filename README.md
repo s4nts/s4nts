@@ -5,7 +5,7 @@
 - Contact me: wyullesousasantos@gmail.com
 - Pronouns: ele/dele
 
-<img src="https://c.tenor.com/bfOEyTxwK40AAAAC/work-computer.gif" min-width="120px" max-width="150px" width="120px" align="right" alt="Computador"> 
+<img src="https://c.tenor.com/bfOEyTxwK40AAAAC/work-computer.gif" min-width="130px" max-width="150px" width="130px" align="right" alt="Computador"> 
 
 <div align="center">
   <a href="https://github.com/s4nts">
