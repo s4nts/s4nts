@@ -1,5 +1,5 @@
 ##
-<H2> Hi! I'm Wyulle, but call me Will👋 </H2>
+<H3> Hi! I'm Wyulle, but call me Will👋 </H3>
 
 - I am currently looking for a **job**! <img src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif" min-width="110px" max-width="150px" width="110px" align="right" alt="Computador">
 - I am a **Front-end developer**.
@@ -17,10 +17,11 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nts&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-
 ##
   
-<H2>🖥️ Technologies that I am used to:</H2>
+<H4>🖥️ Technologies that I am used to:</H4>
+
+##
   
   <div style="display: inline_block"><br>
   <img align="center" alt="will-Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -34,10 +35,12 @@
   
   ##
   
-  <H2> 💭social </H2>
- 
+  <H4> 💭social </H4>
+
+  ##
+
 <div> 
-  <a href="https://www.youtube.com/c/WyulleSantos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <href="https://www.youtube.com/c/WyulleSantos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/s4nt.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/willsants67" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:wyullesousasantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
