@@ -3,8 +3,9 @@
 - I am currently looking for a **job**!
 - I am a **Front-end developer**.
 - Study Analysis and Systems Development
-- Contact me: **wyullesousasantos@gmail.com**
-- If you find anything here interesting or just if you want to give me some feedback, feel free to send me a message:💭
+- Contact me: *wyullesousasantos@gmail.com*
+- *from* **Brazil, SC** 📍
+- *If you find anything here interesting or just if you want to give me some feedback, feel free to send me a message*:💭
 
 
 
