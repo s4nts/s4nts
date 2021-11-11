@@ -1,9 +1,12 @@
 ### Hi! I'm Wyulle, but call me Will 👋
 
-- Today I work with front-end
+- I am currently looking for a job!
+- I am a Front-end developer.
 - Study Analysis and Systems Development
 - Contact me: wyullesousasantos@gmail.com
-- Pronouns: ele/dele 
+- If you find anything here interesting or just if you want to give me some feedback, feel free to send me a message:💭
+
+
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif" min-width="130px" max-width="150px" width="130px" align="right" alt="Computador">
@@ -13,7 +16,6 @@
 </div>
 
 
-  
 ##
   
 🖥️ Technologies that I am used to:
