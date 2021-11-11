@@ -1,4 +1,4 @@
-### Hi! I'm *Wyulle*, but call me *Will* 👋
+<H2> Hi! I'm Wyulle, but call me Will👋 </H2>
 
 - I am currently looking for a **job**!
 - I am a **Front-end developer**.
@@ -12,14 +12,14 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif" min-width="130px" max-width="150px" width="130px" align="right" alt="Computador">
   <a href="https://github.com/s4nts">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=s4nts&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nts&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=s4nts&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nts&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 
 ##
   
-🖥️ Technologies that I am used to:
+<H2>🖥️ Technologies that I am used to:</H2>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="will-Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -33,7 +33,7 @@
   
   ##
   
-  💭social
+  <H2> 💭social </H2>
  
 <div> 
   <a href="https://www.youtube.com/c/WyulleSantos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
