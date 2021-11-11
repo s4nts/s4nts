@@ -9,8 +9,9 @@
   <a href="https://github.com/s4nts">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=s4nts&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nts&layout=compact&langs_count=7&theme=github_dark"/>
+    <img src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif" min-width="130px" max-width="150px" width="130px" align="right" alt="Computador">
 </div>
-<img src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif" min-width="130px" max-width="150px" width="130px" align="right" alt="Computador">
+
 
   
 ##
