@@ -24,12 +24,11 @@
 
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="will-Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="will-HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="will-CSS" height="30" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="will-React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="will-Node" height="30" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="will-windows" height="30" width="100"src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">   
+  <img align="center" alt="will-Js" height="30" width="120" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/js_button_icon_151927.png">
+  <img align="center" alt="will-HTML" height="30" width="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/html_button_icon_151929.png">
+  <img align="center" alt="will-CSS" height="30" width="90" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/css_button_icon_151935.png">
+  <img align="center" alt="will-python" height="30" width="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png">
+  <img align="center" alt="will-windows" height="30" width="80"src="https://cdn.icon-icons.com/icons2/2530/PNG/512/pc_button_icon_151862.png">   
     
 </div>
   
