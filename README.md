@@ -2,7 +2,7 @@
 <H3> Hi! I'm Wyulle, but call me Will👋 </H3>
 
 - I am currently looking for a **job**! <img src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif" min-width="140px" max-width="150px" width="140px" align="right" alt="Computador">
-- I am a **Front-end developer**.
+- I am a **Back-end developer**.
 - Study Analysis and Systems Development
 - Contact me: *wyullesousasantos@gmail.com*
 - *from* **Brazil, SC** 📍
