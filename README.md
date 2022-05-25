@@ -24,10 +24,10 @@
 <!--Icones no site [icogr](https://icongr.am/devicon or pesquise por badges or https://dev.to/envoy_/150-badges-for-github-pnk)-->
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="will-.Net" height="30" width="80" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img align="center" alt="will-.Net" height="30" width="70" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img align="center" alt="will-C#"height="30"width="70"src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="will-Azure" height="30" width="170" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">  
-  <img align="center" alt="will-SQLServer" height="30" width="190"src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">  
+  <img align="center" alt="will-SQLServer" height="30" width="210"src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">  
   <img align="center" alt="will-python" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="will-HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="will-CSS" height="30" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
