@@ -1,7 +1,13 @@
 ##
 <H3> Hi! I'm Wyulle, but call me Will👋 </H3>
 
-- I am currently looking for a **job**! <img src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif" min-width="140px" max-width="150px" width="140px" align="right" alt="Computador">
+<div align="center"> <br>
+  
+<img height="180px" width="200px" src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif">
+  
+</div>
+
+- I am currently working as a **DevOps** at **Employer RH**!! 
 - I am a **Back-end developer** with specialization studies in **C#** and **DevOps** culture.
 - Study Analysis and Systems Development
 - Contact me: *wyullesousasantos@gmail.com*
@@ -10,11 +16,10 @@
 
 
 
-<div align="center">
+<div align="left">
 
   <a href="https://github.com/s4nts">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=s4nts&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nts&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nts&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ##
