@@ -7,8 +7,8 @@
   
 </div>
 
-- I am currently working as a **DevOps** at **Employer RH**!! 
-- I am a **Back-end developer** with specialization studies in **C#** and **DevOps** culture.
+- I am currently working as a **Quality Assurance** at **Cheap2Ship**!! 
+- I am a **Back-end developer** with specialization studies in **PYTHON** and **DevOps** culture.
 - Study Analysis and Systems Development
 - Contact me: *wyullesousasantos@gmail.com*
 - *from* **Brazil, SC** 📍
