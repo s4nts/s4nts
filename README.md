@@ -7,10 +7,9 @@
   
 </div>
 
-- I am currently working as a **Quality Assurance** at **Cheap2Ship**!! 
-- I am a **Back-end developer** with specialization studies in **PYTHON** and **DevOps** culture.
+- I am currently working as a **Quality Assurance** at **Cheap2Ship**. **Full-Stack** dev with specialization studies in **PYTHON** and **JS**.
 - Study Analysis and Systems Development
-- Contact me: *wyullesousasantos@gmail.com*
+- Contact me: **wyullesousasantos@gmail.com**
 - *from* **Brazil, SC** 📍
 - *If you find anything here interesting or just if you want to give me some feedback, feel free to send me a message*:💭
 
