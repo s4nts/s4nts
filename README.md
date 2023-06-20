@@ -7,7 +7,7 @@
   
 </div>
 
-- I am currently working as a **Quality Assurance** at **Cheap2Ship**. **Full-Stack** dev with specialization studies in **PYTHON** and **JS**.
+- I am currently working as a **Quality Assurance** at **Cheap2Ship**. **Front-End** dev with specialization studies in **Node.JS** and **JavaScript**.
 - Study Analysis and Systems Development
 - Contact me: **wyullesousasantos@gmail.com**
 - *from* **Brazil, SC** 📍
