@@ -18,7 +18,8 @@
 <div align="left">
 
   <a href="https://github.com/s4nts">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nts&layout=compact&langs_count=7&theme=github_dark"/>
+  <!--<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nts&layout=compact&langs_count=7&theme=github_dark"/>-->
+  <img height="200" src="https://github-readme-stats.vercel.app/api/?username=s4nts&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ##
