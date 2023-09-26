@@ -1,4 +1,3 @@
-##
 <H3> Hi! I'm Wyulle, but call me Will👋 </H3> 
 </br>
 
@@ -10,7 +9,7 @@
 <img height="auto" width="400px" src="img/programming_boy.gif"> 
 </div>
 
-</br>
+##
 
 - I am currently working as a **Quality Assurance** at **Cheap2Ship**. **Front-End** dev with specialization studies in **Node.JS** and **JavaScript**.
 - Study Analysis and Systems Development
