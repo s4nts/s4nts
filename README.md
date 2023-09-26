@@ -1,10 +1,13 @@
 ##
 <H3> Hi! I'm Wyulle, but call me Will👋 </H3> 
-<br>
+</br>
+
 ![visitors](https://komarev.com/ghpvc/?username=s4nts&label=Visitors&color=blue&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/s4nts?style=social)
 
-<div align="center"> <br>
+<div align="center"> 
+
+</br>
   
 <img height="180px" width="200px" src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif">
   
