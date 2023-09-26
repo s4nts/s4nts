@@ -15,25 +15,19 @@
 
 
 
-<div align="left">
-
-  <a href="https://github.com/s4nts">
-  <!--<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nts&layout=compact&langs_count=7&theme=github_dark"/>-->
-  <!--<img height="200" src="https://github-readme-stats.vercel.app/api/?username=s4nts&layout=compact&langs_count=7&theme=github_dark"/>-->
-
-##
-
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nts&layout=compact&langs_count=7&theme=github_dark"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/?username=s4nts&layout=compact&langs_count=7&theme=github_dark"/>
+<div align = "center">
+  <a href="https://github.com/s4nts/">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=s4nts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=s4nts&layout=compact&langs_count=8&theme=tokyonight">
 </div>
 
 ##
   
-<H4>🖥️ Technologies that I am used to:</H4>
+<H4 align = "center">🖥️ Technologies that I am used to:</H4>
 
 <!--Icones no site [icogr](https://icongr.am/devicon or pesquise por badges or https://dev.to/envoy_/150-badges-for-github-pnk)-->
   
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" align = "center"><br>
   <img align="center" alt="will-.Net" height="30" width="70" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img align="center" alt="will-C#"height="30"width="70"src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="will-SQLServer" height="30" width="210"src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">  
@@ -47,11 +41,11 @@
   
   
   
-  <H4> 💭social </H4>
+  <H4 align = "center"> 💭social </H4>
 
   
 
-<div> 
+<div align = "center"> 
   <a href="https://www.instagram.com/s4nt.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/willsants67" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://mailto:wyullesousasantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
