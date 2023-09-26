@@ -1,3 +1,6 @@
+![visitors](https://komarev.com/ghpvc/?username=s4nts&label=Visitors&color=blue&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/s4nts?style=social)
+
 ##
 <H3> Hi! I'm Wyulle, but call me Will👋 </H3>
 
