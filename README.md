@@ -27,7 +27,7 @@
 
 ##
   
-<H4 align = "center">🖥️ Technologies that I am used to:</H4>
+<H3 align = "center">🖥️ Technologies that I am used to:</H3>
 
 <!--Icones no site [icogr](https://icongr.am/devicon or pesquise por badges or https://dev.to/envoy_/150-badges-for-github-pnk)-->
   
@@ -42,7 +42,7 @@
  
 </div>
 
-  <H4 align = "center"> 💭social </H4>
+  <H3 align = "center"> 💭social </H3>
 </br>
 <div align = "center"> 
   <a href="https://www.instagram.com/s4nt.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
