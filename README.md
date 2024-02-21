@@ -11,7 +11,7 @@
 
 ##
 
-- I am currently working as a **Quality Assurance** at **Cheap2Ship**. **Front-End** dev with specialization studies in **Node.JS** and **JavaScript**.
+- I am currently working as a **Quality Assurance** at **Cheap2Ship**. **Front-End** dev with specialization studies in **VUE.JS** and **JavaScript**.
 - Study Analysis and Systems Development
 - Contact me: **wyullesousasantos@gmail.com**
 - *from* **Brazil, SC** 📍
