@@ -11,12 +11,17 @@
 
 ##
 
-- I am currently working as a **Quality Assurance** at **Cheap2Ship**. **Front-End** dev with specialization studies in **VUE.JS** and **JavaScript**.
-- Study Analysis and Systems Development
-- Contact me: **wyullesousasantos@gmail.com**
-- *from* **Brazil, SC** 📍
-- *If you find anything here interesting or just if you want to give me some feedback, feel free to send me a message*:💭
-
+<div>
+  <h4>About</h4>
+  <ul>
+    <li>I am currently working as a <strong>Quality Assurance</strong> at <strong>Cheap2Ship</strong>.</li>
+    <li><strong>Front-End</strong> dev with specialization studies in <strong>VUE.JS</strong> and <strong>JavaScript</strong>.</li>
+    <li>Study Analysis and Systems Development</li>
+    <li>Contact me: <strong>wyullesousasantos@gmail.com</strong></li>
+    <li><em>from</em> <strong>Brazil, SC</strong> 📍</li>
+    <li><em>If you find anything here interesting or just if you want to give me some feedback, feel free to send me a message</em>: 💭</li>
+  </ul>
+</div>
 </br>
 
 <div align = "center">
@@ -27,24 +32,31 @@
 
 ##
   
-<H3 align = "center">🖥️ Technologies that I am used to:</H3>
+<H4 align="left">🖥️ Technologies that I am used to:</H4>
 
 <!--Icones no site [icogr](https://icongr.am/devicon or pesquise por badges or https://dev.to/envoy_/150-badges-for-github-pnk)-->
   
-<div style="display: inline_block" align = "center"><br>
-  <img align="center" alt="will-HTML" height="30" width="auto" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
-  <img align="center" alt="will-CSS" height="30" width="auto" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
-  <img align="center" alt="will-JS" height="30" width="auto" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
-  <img align="center" alt="will-TS" height="30" width="auto" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
-  <img align="center" alt="will-UBUNTU" height="30" width="auto" src="https://icongr.am/devicon/ubuntu-plain.svg?size=128&color=currentColor">
-  <img align="center" alt="will-VUE" height="30" width="auto" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor">
-  <img align="center" alt="will-GIT" height="30" width="auto" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
- 
+<div align="left"><br>
+  <img align="center" alt="will-HTML" height="30" width="auto" src="assets/icons/skill-icons--html.svg">
+  <img align="center" alt="will-CSS" height="30" width="auto" src="assets/icons/skill-icons--css.svg">
+  <img align="center" alt="will-TW" height="30" width="auto" src="assets/icons/skill-icons--tailwindcss-dark.svg">
+  <img align="center" alt="will-JS" height="30" width="auto" src="assets/icons/skill-icons--javascript.svg">
+  <img align="center" alt="will-TS" height="30" width="auto" src="assets/icons/skill-icons--typescript.svg">
+  <img align="center" alt="will-UBUNTU" height="30" width="auto" src="assets/icons/skill-icons--ubuntu-dark.svg">
+  <img align="center" alt="will-VUE" height="30" width="auto" src="assets/icons/skill-icons--vuejs-dark.svg">
+  <img align="center" alt="will-NUXT" height="30" width="auto" src="assets/icons/skill-icons--nuxtjs-dark.svg">
+  <img align="center" alt="will-GIT" height="30" width="auto" src="assets/icons/skill-icons--git.svg">
+  <img align="center" alt="will-CY" height="30" width="auto" src="assets/icons/skill-icons--cypress-dark.svg">
+  <img align="center" alt="will-VSCODE" height="30" width="auto" src="assets/icons/skill-icons--vscode-dark.svg">
+  <img align="center" alt="will-YARN" height="30" width="auto" src="assets/icons/skill-icons--yarn-dark.svg">
+  <img align="center" alt="will-FIGMA" height="30" width="auto" src="assets/icons/skill-icons--figma-dark.svg">
+  <img align="center" alt="will-NOTION" height="30" width="auto" src="assets/icons/skill-icons--notion-dark.svg">
+
 </div>
 
-  <H3 align = "center"> 💭social </H3>
+  <H4 align="left"> 💭social </H4>
 </br>
-<div align = "center"> 
+<div align="left"> 
   <a href="https://www.instagram.com/s4nt.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/willsants67" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://mailto:wyullesousasantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
