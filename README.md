@@ -16,7 +16,7 @@
   <ul>
     <li>I am currently working as a <strong>Quality Assurance</strong> at <strong>Cheap2Ship</strong>.</li>
     <li><strong>Front-End</strong> dev with specialization studies in <strong>VUE.JS</strong> and <strong>JavaScript</strong>.</li>
-    <li>Study Analysis and Systems Development</li>
+    <li>Graduated in Systems Analysis and Development</li>
     <li>Contact me: <strong>wyullesousasantos@gmail.com</strong></li>
     <li><em>from</em> <strong>Brazil, SC</strong> 📍</li>
     <li><em>If you find anything here interesting or just if you want to give me some feedback, feel free to send me a message</em>: 💭</li>
@@ -67,6 +67,5 @@
 <br/><br/>
 
 <div>
-  <a href="assets/pdf/Santos_Wyulle-02_2024-PT.pdf" target="_blank"><img src="https://img.shields.io/badge/Curriculum-Here-1abc9c.svg">
-  </a>
+  <a href="assets/pdf/Santos_Wyulle-02_2024-PT.pdf" target="_blank"><img src="https://img.shields.io/badge/Curriculum-Here-1abc9c.svg"></a>
 </div>
