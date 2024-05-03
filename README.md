@@ -67,6 +67,5 @@
 <br/><br/>
 
 <div>
-  <a href="assets/pdf/Santos_Wyulle-02_2024-PT.pdf" target="_blank"><img src="https://img.shields.io/badge/Curriculum-Here-1abc9c.svg">
-  </a>
+  <a href="assets/pdf/Santos_Wyulle-02_2024-PT.pdf" target="_blank"><img src="https://img.shields.io/badge/Curriculum-Here-1abc9c.svg"></a>
 </div>
