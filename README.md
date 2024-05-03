@@ -57,15 +57,15 @@
 <H4 align="left"> 💭social </H4>
 
 <div align="left"> 
-  <a href="https://www.instagram.com/s4nt.s" target="_blank"><img src="assets/social/skill-icons--instagram.svg" target="_blank"></a>
-  <a href="https://mailto:wyullesousasantos@gmail.com"><img src="assets/social/skill-icons--gmail-dark.svg" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wyulle-santos-a03ab617b/" target="_blank"><img src="assets/social/skill-icons--linkedin.svg" target="_blank"></a> 
-   <a href="https://discord.gg/Vg9RmRtM" target="_blank"><img src="assets/social/skill-icons--discord.svg" target="_blank">
-  </a> 
-  <a href="https://github.com/s4nts" target="_blank"><img src="assets/social/skill-icons--github-dark.svg" target="_blank">
-  </a>
+  <a href="https://www.instagram.com/s4nt.s" target="_blank"><img height="30" width="auto" src="assets/social/skill-icons--instagram.svg" target="_blank"></a>
+  <a href="https://mailto:wyullesousasantos@gmail.com"><img height="30" width="auto" src="assets/social/skill-icons--gmail-dark.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wyulle-santos-a03ab617b/" target="_blank"><img height="30" width="auto" src="assets/social/skill-icons--linkedin.svg" target="_blank"></a> 
+  <a href="https://discord.gg/Vg9RmRtM" target="_blank"><img height="30" width="auto" src="assets/social/skill-icons--discord.svg" target="_blank"></a> 
+  <a href="https://github.com/s4nts" target="_blank"><img height="30" width="auto" src="assets/social/skill-icons--github-dark.svg" target="_blank"></a>
 </div>
+
 <br/><br/>
+
 <div>
   <a href="assets/pdf/Santos_Wyulle-02_2024-PT.pdf" target="_blank"><img src="https://img.shields.io/badge/Curriculum-Here-1abc9c.svg" target="_blank">
   </a>
