@@ -17,14 +17,17 @@
 
 <div>
   <h4>About</h4>
+<p>I'm Wyulle Santos, a Software Quality (QA) professional with experience in automated testing, validating functionalities and ensuring product compliance. I manage tasks, create and administer workflows for adjustments and improvements, ensuring the performance and functionality of platforms.</p>
+
+<p>I have knowledge of agile methodologies (Scrum and Kanban) and skills in tools such as Cypress, Postman, GraphQL, JavaScript and skills in organizational tools such as Jira and Azure DevOps. My experience covers front-end and back-end testing, defect management, scenario modeling and quality monitoring.</p>
+</br>
   <ul>
-    <li>I am currently working as a <strong>Quality Assurance</strong> at <strong>Cheap2Ship</strong>.</li>
-    <li><strong>Front-End</strong> dev with specialization studies in <strong>VUE.JS</strong> and <strong>JavaScript</strong>.</li>
     <li>Graduated in Systems Analysis and Development</li>
     <li>Contact me: <strong>wyullesousasantos@gmail.com</strong></li>
     <li><em>from</em> <strong>Brazil, SC</strong> 📍</li>
     <li><em>If you find anything here interesting or just if you want to give me some feedback, feel free to send me a message</em>: 💭</li>
   </ul>
+
 </div>
 </br>
 
@@ -66,7 +69,3 @@
 </div>
 
 <br/><br/>
-
-<div>
-  <a href="assets/pdf/Santos_Wyulle-02_2024-PT.pdf" target="_blank"><img height="25" width="auto" src="https://img.shields.io/badge/Curriculum-Here-1abc9c.svg"></a>
-</div>
