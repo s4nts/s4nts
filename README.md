@@ -17,9 +17,9 @@
 
 <div>
   <h4>About</h4>
-<p>I'm Wyulle Santos, a Software Quality (QA) professional with experience in automated testing, validating functionalities and ensuring product compliance. I manage tasks, create and administer workflows for adjustments and improvements, ensuring the performance and functionality of platforms.</p>
+<p>Hello, my name is Wyulle Santos, I'm a Software Quality (QA) professional with experience in automated testing, feature validation and product quality assurance.</p>
 
-<p>I have knowledge of agile methodologies (Scrum and Kanban) and skills in tools such as Cypress, Postman, GraphQL, JavaScript and skills in organizational tools such as Jira and Azure DevOps. My experience covers front-end and back-end testing, defect management, scenario modeling and quality monitoring.</p>
+<p>I have knowledge of Cypress, Robot Framework, Postman, Swagger, GraphQL, Git, code versioning, as well as experience with JavaScript, Jira and agile methodologies such as Scrum and Kanban.</p>
 </br>
   <ul>
     <li>Graduated in Systems Analysis and Development</li>
