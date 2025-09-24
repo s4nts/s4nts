@@ -17,9 +17,9 @@
 
 <div>
   <h4>About</h4>
-<p>Hello, my name is Wyulle Santos, I'm a Software Quality (QA) professional with experience in automated testing, feature validation and product quality assurance.</p>
+<p>Hello, my name is Wyulle Santos, and I'm a front-end developer. I specialize in creating responsive and scalable applications using JavaScript, TypeScript, React, and Vue.</p>
 
-<p>I have knowledge of Cypress, Robot Framework, Postman, Swagger, GraphQL, Git, code versioning, as well as experience with JavaScript, Jira and agile methodologies such as Scrum and Kanban.</p>
+<p>My solid experience in Software Quality (QA) taught me the importance of quality assurance from the start, a skill I now apply to my development workflow. I'm adept at working in agile teams and using tools like Git, Jira, Scrum, and Kanban to ensure continuous delivery and product excellence.</p>
 </br>
   <ul>
     <li>Graduated in Systems Analysis and Development</li>
